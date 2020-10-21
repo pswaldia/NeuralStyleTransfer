@@ -4,4 +4,4 @@ In this notebook, I'll use a pre-trained VGG19 Net to extract content or style f
 We'll then formalize the idea of content and style losses and use those to iteratively update our target image until we get a result that we want.
 
 ## Result
-The result has been summarised in a blog [post](https://pswaldia.github.io/2018-12-11-second-post/)
+![img](https://imgur.com/wu7wE7i.jpg)
